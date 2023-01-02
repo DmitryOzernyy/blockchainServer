@@ -1,0 +1,1 @@
+Blockhain app from book "Typescript Faster"
